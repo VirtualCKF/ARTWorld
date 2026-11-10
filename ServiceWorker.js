@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-ARTWorld-0.15";
+const cacheName = "DefaultCompany-ARTWorld-0.16";
 const contentToCache = [
     "Build/ARTWorld.loader.js",
     "Build/ARTWorld.framework.js",
